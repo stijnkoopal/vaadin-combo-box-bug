@@ -5,3 +5,5 @@
 * Run `open http://localhost:8000` (Should open in Chrome)
 * Type only `t` in the text field
 * See that `3` items appear where `11` are expected
+
+https://github.com/vaadin/vaadin-combo-box/issues/668
